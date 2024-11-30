@@ -1,4 +1,4 @@
-# Application Rigelni Backend
+# Application Web Scraper Backend
 
 Ce projet est un backend pour une application de scraping de données web et d'analyse, utilisant Angular pour le frontend et Python pour le backend. Il permet de scraper des données de différents sites web (comme Amazon, IMDb, Facebook, etc.), de les exporter sous forme de fichiers CSV, et de les analyser avec des outils d'intelligence artificielle.
 
